@@ -22,20 +22,20 @@ _2. The app can count up to the entered number_
   * _Entered number: 3_
   * _App output: [1,2,3]_
 
-_3. The app divides chosen numbers by three._
+_3. The app recognizes entered numbers divisible by three, but not fifteen._
 
   * _Entered number: 3_
   * _App output: true_
 
-_4. The app divides chosen numbers by five._
+_4. The app recognizes entered numbers divisible by five, but not fifteen._
 
-  * _Entered number: 3_
+  * _Entered number: 33_
   * _App output: false_
 
-_5. The app divides chosen numbers by fifteen._
+_5. The app recognizes entered numbers divisible by fifteen._
 
-  * _Entered number: 3_
-  * _App output: false_
+  * _Entered number: 45_
+  * _App output: true_
 
 _6. Entered numbers divisible by three are replaced in the returned count up by "Ping!"._
 
