@@ -22,30 +22,40 @@ _2. The app can count up to the entered number_
   * _Entered number: 3_
   * _App output: [1,2,3]_
 
-_3. The app returns a display of the count, up to and including the entered number._
+_3. The app divides chosen numbers by three._
 
   * _Entered number: 3_
-  * _App output: "1, 2, 3"_
+  * _App output: true_
 
-_4. The app divides chosen numbers by three._
+_4. The app divides chosen numbers by five._
 
-* _Entered number: 3_
-* _App output: true_
+  * _Entered number: 3_
+  * _App output: false_
 
-_5. The app divides chosen numbers by five._
+_5. The app divides chosen numbers by fifteen._
 
-* _Entered number: 3_
-* _App output: false_
+  * _Entered number: 3_
+  * _App output: false_
 
-_6. The app divides chosen numbers by fifteen._
+_6. Entered numbers divisible by three are replaced in the returned count up by "Ping!"._
 
-* _Entered number: 3_
-* _App output: false_
+  * _Entered number: 3_
+  * _App output: "Ping!"_
 
-_7. Entered numbers divisible by three are replaced in the returned count up by "Ping!"._
+_7. Entered numbers divisible by five are replaced in the returned count up by "Pong!"._
 
-* _Entered number: 3_
-* _App output: "Ping!"_
+  * _Entered number: 10_
+  * _App output: "Pong!"_
+
+_8. Entered numbers divisible by fifteen are replaced in the returned count up by "Ping Pong!!"._
+
+  * _Entered number: 30_
+  * _App output: "Ping Pong!!"_
+
+_9. _A user should be able to enter a new number and see new results repeatedly.
+
+  * _New entry: X_
+  * _App output: New "face"_
 
 
 
