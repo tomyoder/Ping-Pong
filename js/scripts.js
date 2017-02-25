@@ -27,15 +27,13 @@ var pingPong = function(userInput) {
 
 var outputStr = output.toString();
 //console.log(outputStr);
-newArray = output.map(function(item) {
-  return item (item % 3 === 0) ? Ping : item;
+var pingArray = output.map(function(number) {
+
+
 });
-    /*for (var i = 1; i <= output.length; i++) {
-      if (outputStr[i] % 3 === 0)  {
-       outputStr = outputStr.replace("[i]","Ping!");
-     }
-       }
-       console.log(outputStr);*/
+      console.log(pingArray);
+
+});
 
 };
 
