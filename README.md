@@ -55,11 +55,10 @@ _8. Entered numbers divisible by fifteen are replaced in the returned count up b
 _9. _A user should be able to enter a new number and see new results repeatedly.
 
   * _New entry: X_
-  * _App output: New "face"}_
+  * _App output: New "face"
 
-
-
-
+  GH Pages URL: http://tomyoder.github.io/Ping-Pong/
+  Main git URL https://github.com/tomyoder/Ping-Pong.git}_
 
 
 ## Known Bugs
