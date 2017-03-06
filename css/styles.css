@@ -1,0 +1,42 @@
+#title {
+  font-weight: bold;
+  font-size: 80px;
+}
+
+
+.jumbotron {
+  text-align: center;
+}
+
+#sentence {
+  font-size: 20px;
+}
+
+.form-group {
+  padding-left: 60px;
+}
+
+#button {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-left: 525px;
+  margin-right: 60px;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
+
+#announce {
+  text-align: center;
+  font-size: 35px;
+}
+
+#output {
+
+  font-size: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 50px;
+
+}

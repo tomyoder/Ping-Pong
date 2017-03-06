@@ -10,13 +10,24 @@
   </head>
   <body>
     <div class="container">
+      <div class="jumbotron">
+        <p id="title">Ping-Pong!!!</p>
+      </div>
       <form id="pingPong">
         <div class="form-group">
-          <label for="sentence">Pick a number, any number!</label>
-          <input id="userInput" text="text">
+          <blockquote class= "bg-info">
+            <label id="sentence">Pick a number, any number!</label>
+            <input id="userInput" text="text">
+          </blockquote>
         </div>
-        <button type="submit">Click</button>
+        <button id="button" button type="submit">Serve!</button>
       </form>
+    </div>
+    <div class="bg-success">
+      <p id="announce">And now, the play-by-play</p>
+    </div>
+    <div>
+      <p id="output"></p>
     </div>
   </body>
 </html>

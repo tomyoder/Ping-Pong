@@ -17,7 +17,7 @@ for (var i=1; i<=userInput; i++) {
       output.push(i);
   }
   };
-  console.log(output);       //return (output);
+  $("#output").text(output);
 };
 
 //FRONTEND
