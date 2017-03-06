@@ -1,12 +1,12 @@
-# _{Ping-Pong!}_
+# _Ping-Pong!_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A text generation and string looping solo assignment posing as a ping-pong game. 3/6/17_
 
-#### By _**{Tom Yoder}**_
+#### By _Tom Yoder_
 
 ## Description
 
-_{Ping-Pong!
+_Ping-Pong!
   This app, a solo assignment, takes a number from a user and returns a range of numbers from 1 to the entered number with the following exceptions:_
 
 * _Numbers divisible by 5 are replaced with "pong"_
@@ -53,7 +53,7 @@ _8. Entered numbers divisible by fifteen are replaced in the returned count up b
   * _App output: "Ping Pong!!"_
 
   _GH Pages URL: http://tomyoder.github.io/Ping-Pong/
-  Main git URL: https://github.com/tomyoder/Ping-Pong.git}_
+  Main git URL: https://github.com/tomyoder/Ping-Pong.git_
 
 
 ## Known Bugs
