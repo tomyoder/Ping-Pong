@@ -29,14 +29,12 @@
 
 #announce {
   text-align: center;
-  font-size: 35px;
+  font-size: 40px;
 }
 
 #output {
 
   font-size: 40px;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-top: 50px;
+  text-align: center;
 
 }

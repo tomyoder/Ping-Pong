@@ -52,29 +52,24 @@ _8. Entered numbers divisible by fifteen are replaced in the returned count up b
   * _Entered number: 30_
   * _App output: "Ping Pong!!"_
 
-_9. _A user should be able to enter a new number and see new results repeatedly.
-
-  * _New entry: X_
-  * _App output: New "face"
-
-  GH Pages URL: http://tomyoder.github.io/Ping-Pong/
-  Main git URL https://github.com/tomyoder/Ping-Pong.git}_
+  _GH Pages URL: http://tomyoder.github.io/Ping-Pong/
+  Main git URL: https://github.com/tomyoder/Ping-Pong.git}_
 
 
 ## Known Bugs
 
-_{This app is not functional yet. Under construction, as they say}_
+_This app works, but its appearance is unrefined. Future work will focus on better presentation _
 
 ## Support and contact details
 
-_{Issues or Questions? motredoy@gmail.com}_
+_Issues or Questions?  Send me a note motredoy@gmail.com_
 
 ## Technologies Used
 
-_{html, js}_
+_html, js, jquery, css, bootstrap_
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2017 **_{Tom Yoder}_**
+Copyright (c) 2017 **_Tom Yoder_**
